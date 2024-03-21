@@ -1,7 +1,7 @@
 - 👋 Velkommen til min GitHub!
 
-Jeg heter Ilakia, en lidenskapelig lærling og frontend-utvikler som for øyeblikket er elev ved Kodehode bootcamp i Norge.
-Min reise her drives av nysgjerrighet og ønsket om å utforske dybdene av webutvikling. Jeg elsker å jobbe med teknologier som React, 
-JavaScript, CSS og Figma, og jeg er alltid ivrig etter å dykke ned i nye prosjekter og utfordringer.
+Jeg heter Ilakia, og er en nyskjerrig frontend-student ved Kodehode i Bergen. Jeg er veldig glad i webutvikling, og elsker å jobbe med teknologier som React, JavaScript, CSS og Figma. Jeg er alltid på jakt etter nye prosjekter og utfordringer, og ser nå etter en praksisplass her i Bergen.
 
-Ta gjerne en titt på mine lagringsplasser (repositories) og prosjekter. 
+
+Når jeg ikke jobber med webutvikling,liker jeg å gå turer i naturen, og høre på podcast
+
